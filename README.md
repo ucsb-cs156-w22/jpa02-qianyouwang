@@ -3,7 +3,7 @@
 
 https://github.com/ucsb-cs156-w22/jpa02-qianyouwang
 
-On Heroku: https://jpa02-qianyouwang.herokuapp.com/
+On Heroku: https://jpa02-qianyou-wang.herokuapp.com/
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-qianyouwang
 
